@@ -8,8 +8,7 @@ Tf-Idf is a numerical statistic that is intended to reflect how important a word
 
 * term-frequency of a word (tf) = 1 + log(frequency of word) 
 * inverse-document-frequency of a word (idf) = log(Total Number of Documents in the Corpus / Number of Documents in which the word appears)
-
-**tf-idf = tf * idf
+* tf-idf = tf * idf
 
 ## Sentence Scoring
 
